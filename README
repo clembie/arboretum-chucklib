@@ -1,0 +1,17 @@
+
+Arboretum ChucKLib - Michael Clemow, 2009
+
+This collection of code comprises a personal library that I run on 
+a cluster of Linux machines called The Arboretum.  Not all of it was 
+designed to run on networks and much of it is useful without one.  
+
+I keep a copy of these files on each of the nodes in the cluster and
+run the arb_init.ck file over the network to add those files to the
+running ChucK virtual machines on those nodes.  init.ck is for running
+the code locally.  
+
+This code is open-source and I make no promises as to its safety or 
+usefulness.  
+
+--
+
